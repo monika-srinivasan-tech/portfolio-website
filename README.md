@@ -32,9 +32,17 @@ I enjoy building simple, clean, and user-friendly web applications and continuou
   - User authentication
   - Report generation
   - Migration to Java backend
+ 
+### Expense Tracker – Java Console Application
 
-## 🌐 Live Demo
-*(Will be updated using GitHub Pages)*
+- A console-based Java application to track.
+- Manage daily expenses efficiently using a structured and user-friendly flow.
+- Technologies Used: Java, MySQL, JDBC
+- Future Enhancements:
+   - Web-based version
+   - User authentication
+   - Advanced reports
+   - Improved UI.
 
 ## 📫 Contact
 - Email: monikasrinivasan1506@gmail.com
